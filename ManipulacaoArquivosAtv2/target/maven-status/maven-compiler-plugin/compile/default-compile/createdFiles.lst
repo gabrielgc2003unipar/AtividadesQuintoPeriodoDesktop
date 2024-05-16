@@ -1,0 +1,12 @@
+com\mycompany\manipulacaoarquivo\util\EntityManagerUtil.class
+com\mycompany\manipulacaoarquivo\ExportaArquivo.class
+com\mycompany\manipulacaoarquivo\ImportaArquivo.class
+com\mycompany\manipulacaoarquivo\Menu$3.class
+com\mycompany\manipulacaoarquivo\ExportaArquivo$1.class
+com\mycompany\manipulacaoarquivo\entities\Pessoa.class
+com\mycompany\manipulacaoarquivo\ImportaArquivo$1.class
+com\mycompany\manipulacaoarquivo\ImportaArquivo$2.class
+com\mycompany\manipulacaoarquivo\Menu$2.class
+com\mycompany\manipulacaoarquivo\Menu$1.class
+com\mycompany\manipulacaoarquivo\Menu.class
+com\mycompany\manipulacaoarquivo\dao\PessoaDAO.class
